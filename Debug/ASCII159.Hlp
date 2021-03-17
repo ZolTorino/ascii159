@@ -1,0 +1,203 @@
+File produced by HelpMaker. A.I.
+?
+;{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 ?\par
+\par
+\cf2 Sezione del men\'f9 che permette l'accesso alle voci "Info su..." e "Help".\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+ASCII159
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 ASCII159\par
+\cf2\f1\par
+\cf3\f0 ASCII159 \'e8 un software di calcolo per la risoluzione di problemi geometrici, con rappresentazioni grafiche, spiegazione dei passaggi di calcolo e della teoria. I calcoli sono eseguiti nell'ambito del piano cartesiano utilizzando punti, rette e parabole.\par
+Possono poi essere generati esercizi casuali e disegnate delle funzioni di ogni tipologia.\cf2\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Cifre decimali arrotondamento
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Cifre decimali arrotondamento\par
+\par
+\cf2 Permette di selezionare a quante cifre decimali arrotondare i calcoli. Pu\'f2 influire sulla correttezza delle soluzioni e sulla precisione dei grafici.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Disegna Funzioni
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Disegna Funzioni\cf2\f1\par
+\par
+\cf3\f0 In questa scheda possono essere inserite delle funzioni da rappresentare in un grafico. Le funzioni devono avere una sola incognita, e ogni testo inserito verr\'e0 considerato tale. Testi diversi vengono riconosciuti come incognite diverse, e viene mostrato un messaggio di errore.\par
+Istruzioni per l'inserimento di funzioni:\par
+\par
+-Usare una sola incognita\par
+-Indicare ogni moltiplicazione con il simbolo *\par
+-Indicare le elevazioni a potenza con ^\par
+-Indicare l'argomento di logaritmi, seni e coseni\par
+  inserendolo tra parentesi ()\par
+-Indicare le radici con la sintassi radn(indice; radicando)\par
+-Indicare i valori assoluti con la sintassi abs(argomento)\par
+\par
+ Esempi (testo da inserire per i vari casi):\par
+ -Rette\par
+   3*x+8\par
+-Seni\par
+   sin(x+3)\par
+-Coseni\par
+   cos(x+5)\par
+-Logaritmi\par
+  log(4-x) o ln(4-x)\par
+-Valori assoluti\par
+  abs(sin(x))\cf2\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Esci
+;{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Esci\par
+\par
+\cf2 Voce del men\'f9 File che permette di terminare il programma.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Esegui Calcolo
+;{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Esegui Calcolo\par
+\par
+\cf2 Il pulsante Esegui Calcolo permette di determinare il risultato di un operazione geometrica basata sui dati input inseriti.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Estremi
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Estremi\par
+\par
+\cf2 Nelle caselle per l'inserimento numerico denominate X max, X min, Y max e Y min \'e8 possibile inserire gli estremi del grafico. I due X fanno riferimento al lato positivo e negativo dell'asse delle ascisse, mentre i due Y a quello delle ordinate.\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+File
+;{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 File\par
+\par
+\cf2 Sezione del men\'f9 che permette l'accesso alla voce "Esci".\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Genera Esercizi
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Genera Esercizi\cf2\f1\par
+\par
+\cf3\f0 In questa scheda possono essere generati degli esercizi casuali sui problemi geometrici con punti, rette e parabole.\cf2\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Help
+;{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Help\par
+\par
+\cf2 Voce del men\'f9 "Help" che permette di visualizzare in un altra finestra degli aiuti sul funzionamento del programma.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Info su...
+;{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Info su...\par
+\par
+\cf2 Voce del men\'f9 "?" che permette di visualizzare in un'altra finestra le informazioni di assembly del programma.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Lingua
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Lingua\par
+\par
+\cf2 Permette di selezionare una lingua a scelta tra italiano e inglese, e traduce l'intero programma.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Mostra Teoria
+;{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Mostra Teoria\par
+\par
+\cf2 Il pulsante Mostra Teoria permette di mostrare, in una nuova finestra, la teoria relativa all'argomento indicato.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Opzioni
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Opzioni\par
+\par
+\cf2 Voce del men\'f9 che permette l'accesso a "Lingua" e "Temi".\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Risolvi
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Risolvi\par
+\par
+\cf2 In questa scheda \'e8 possibile selezionare un problema con punti, rette e parabole e risolverlo dopo aver inserito gli enti geometrici necessari.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Risolvi esercizio
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Risolvi esercizio\par
+\par
+\cf2 Permette di risolvere l'esercizio che \'e8 stato generato precedentemente e di visualizzarne il grafico.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Temi
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Temi\par
+\par
+\cf2 Permette la selezione di un tema grafico per il programma. La scelta viene mantenuta agli avvii successivi.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Teoria sui punti - Teori sulle rette
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Teoria sui punti - Teoria sulle rette - Teoria sulle parabole\cf2\f1\par
+\par
+\cf3\f0 Permette di visualizzare la teoria relativa ai punti, alle rette o alle parabole, a seconda che sia cliccato "Teoria sui punti", "Teoria sulle rette" o "Teoria sulle parabole".\cf2\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Tutorial
+;{\rtf1\ansi\ansicpg1252\deff0\deflang1040{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Tutorial\par
+\par
+\cf2 Permette di vedere il tutorial mostrato al primo avvio del programma.\cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
+Visualizza
+;{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Trebuchet MS;}{\f1\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red128\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 Visualizza\par
+\par
+\cf2 Sezione del men\'f9 che permette l'accesso alle voce  "Teoria sui punti",  "Teoria sulle rette", "Teoria sulle parabole" e "Tutorial". \cf3\f1\par
+}
+
+%?FineVoceHelpMakerA.I.?%
